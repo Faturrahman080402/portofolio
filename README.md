@@ -53,12 +53,4 @@ Feel free to connect or collaborate with me:
 
 ---
 
-## 📷 Screenshot Preview
 
-![Portfolio Screenshot](screenshot.png)
-
----
-
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
